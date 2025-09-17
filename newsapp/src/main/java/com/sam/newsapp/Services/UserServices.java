@@ -9,7 +9,7 @@ import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Component;
 
-import com.sam.newsapp.Rspository.UserRepository;
+import com.sam.newsapp.Repository.UserRepository;
 import com.sam.newsapp.entity.Users;
 
 @Component

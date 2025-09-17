@@ -8,7 +8,7 @@ import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
-import com.sam.newsapp.Rspository.UserRepository;
+import com.sam.newsapp.Repository.UserRepository;
 import com.sam.newsapp.entity.Users;
 
 @Service

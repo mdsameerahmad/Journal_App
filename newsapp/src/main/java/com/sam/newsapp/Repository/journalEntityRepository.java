@@ -1,4 +1,4 @@
-package com.sam.newsapp.Rspository;
+package com.sam.newsapp.Repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

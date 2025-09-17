@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.security.SecurityProperties.User;
 import org.springframework.stereotype.Component;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.sam.newsapp.Rspository.journalEntityRepository;
+import com.sam.newsapp.Repository.journalEntityRepository;
 import com.sam.newsapp.entity.Users;
 import com.sam.newsapp.entity.journalEntity;
 
